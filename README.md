@@ -1,22 +1,16 @@
 # Hi 👋, I'm Praneeth Hosalli
 
-<h3 align="center">Software Engineer | AI Engineering | Backend Development</h3>
+<h3 align="center">Passionate Software Engineer | Building Across the Stack</h3>
 
 <p align="center">
-  Building AI agents, intelligent workflows, and scalable full-stack applications.
+  Interested in building intuitive user interfaces, scalable backend systems,
+  working with databases and cloud infrastructure, and exploring AI engineering
+  and emerging technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praneethhosalli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Praneethhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-- 🔭 Previously worked at **Yext** on AI agent workflows and backend integrations.
-- 🤖 Exploring **LLMs, RAG, LangGraph, AI Agents, and MCP**.
-- 💻 Building with **Python, JavaScript, Node.js, React, and SQL**.
-- ☁️ Interested in cloud deployment, backend systems, and CI/CD.
-- 📍 Hyderabad, India | Open to opportunities.
-
----
 
 ### Connect with me
 
@@ -24,46 +18,57 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/praneethhosalli">
+  <a href="https://github.com/Praneethhhhh">
     <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub"/>
   </a>
   <a href="mailto:praneethhosalli59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_me-0e75b6?style=flat&logo=gmail&logoColor=white" height="25" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_me-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ### Languages and Tools
 
+**Languages**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,redux,nodejs,express,mongodb,mysql,aws,docker,linux,git,github,vscode,postman" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" alt="Languages"/>
 </p>
 
-**AI Engineering:** LangChain · LangGraph · RAG · LLMs · MCP · Prompt Engineering · Context Engineering · Agent Orchestration · Guardrails · HITL · Evaluation & Observability
+**Frontend Development**
 
-**Other Tools:** Pinecone · GitHub Actions · Claude Code · Codex · JIRA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,nextjs" alt="Frontend technologies"/>
+</p>
+
+**Backend Development & Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and databases"/>
+</p>
+
+**AI Engineering**
+
+LangChain · LangGraph · LLMs · RAG · MCP · Prompt Engineering · Context Engineering · Agent Orchestration · Pinecone
+
+**Cloud, DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,vscode,postman" alt="Cloud and development tools"/>
+</p>
+
+Claude Code · Codex · JIRA
 
 ---
 
-### Featured Projects
-
-- 🚀 **DevMatch** — Full-stack developer networking platform with real-time messaging, authentication, and subscription payments.
-- 🧠 **AgentFlow** — Conversational AI with RAG, vector search, session memory, and tool calling.
-
----
-
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneethhosalli&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethhosalli&layout=compact&theme=default&hide_border=true" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneethhhhh&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethhhhh&layout=compact&hide_border=true&theme=default" height="165" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=praneethhosalli&theme=default&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Praneethhhhh&hide_border=true&theme=default" alt="GitHub Contribution Streak"/>
 </p>
 
----
-
 <p align="center">
-  <i>Always learning, building, and improving.</i>
+  <i>Always curious. Always building. Always learning.</i>
 </p>
