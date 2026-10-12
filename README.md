@@ -1,12 +1,12 @@
 # Helloooo , I'm Praneeth Hosalli
 
-<h3 align="center">Passionate Software Engineer | Building Across the Stack</h3>
+<!-- <h3 align="center">Passionate Software Engineer | Building Across the Stack</h3>
 
 <p align="center">
 Building scalable backend systems powered by AI engineering, integrating cloud infrastructure and DevOps practices, and crafting intuitive frontend experiences to deliver end-to-end products.
 </p>
 
----
+--- -->
 
 ### Connect with me
 
